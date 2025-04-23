@@ -19,7 +19,7 @@ Zamien
 X -> O
 O -> X
 Sony NP9660 (PBP)
-Piekło 2 (ISO/CSO)
+Pieklo 2 (ISO/CSO)
 URZĄDZENIE USB
 CHRON USB
 STEROWNIKI ISO
